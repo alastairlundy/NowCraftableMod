@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:snow_block"
+    },
+    "B": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:snow_golem_spawn_egg",
+    "count": 2
+  }
+}

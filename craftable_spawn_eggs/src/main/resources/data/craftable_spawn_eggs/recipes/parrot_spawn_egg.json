@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:feather",
+      "count": 2
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "result": {
+    "item": "minecraft:parrot_spawn_egg",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "ingredients": [
+    {
+      "item": "minecraft:sea_grass"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "result": {
+    "item": "minecraft:turtle_spawn_egg",
+    "count": 1
+  }
+}

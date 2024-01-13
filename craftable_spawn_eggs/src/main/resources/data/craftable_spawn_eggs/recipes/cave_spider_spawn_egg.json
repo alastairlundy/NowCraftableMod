@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "tag": "minecraft:poison"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cave_spider_spawn_egg",
+    "count": 1
+  }
+}

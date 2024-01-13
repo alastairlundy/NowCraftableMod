@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_block"
+    },
+    "B": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_golem_spawn_egg",
+    "count": 2
+  }
+}
