@@ -1,0 +1,11 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/cave_spider"
+    }
+  ],
+
+  "addition": "minecraft:cave_spider_spawn_egg",
+  "type": "minecraft:cave_spider_spawn_egg"
+}

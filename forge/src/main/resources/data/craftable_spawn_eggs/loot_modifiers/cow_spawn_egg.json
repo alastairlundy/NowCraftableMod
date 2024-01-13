@@ -1,0 +1,11 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/cow"
+    }
+  ],
+
+  "addition": "minecraft:cow_spawn_egg",
+  "type": "minecraft:cow_spawn_egg"
+}

@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "entries": [
+    "craftable_spawn_eggs:allay_spawn_egg",
+    "craftable_spawn_eggs:bat_spawn_egg",
+    "craftable_spawn_eggs:bee_spawn_egg",
+    "craftable_spawn_eggs:blaze_spawn_egg",
+    "craftable_spawn_eggs:cat_spawn_egg",
+    "craftable_spawn_eggs:camel_spawn_egg",
+    "craftable_spawn_eggs:cave_spider_spawn_egg",
+    "craftable_spawn_eggs:chicken_spawn_egg",
+    "craftable_spawn_eggs:cod_spawn_egg",
+    "craftable_spawn_eggs:cow_spawn_egg",
+    "craftable_spawn_eggs:creeper_spawn_egg",
+    "craftable_spawn_eggs:dolphin_spawn_egg",
+    "craftable_spawn_eggs:donkey_spawn_egg"
+  ]
+}

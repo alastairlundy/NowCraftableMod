@@ -1,0 +1,11 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/camel"
+    }
+  ],
+
+  "addition": "minecraft:camel_spawn_egg",
+  "type": "minecraft:camel_spawn_egg"
+}

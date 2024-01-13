@@ -1,0 +1,11 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/cat"
+    }
+  ],
+
+  "addition": "minecraft:cat_spawn_egg",
+  "type": "minecraft:cat_spawn_egg"
+}

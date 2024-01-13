@@ -1,0 +1,11 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/blaze"
+    }
+  ],
+
+  "addition": "minecraft:blaze_spawn_egg",
+  "type": "minecraft:blaze_spawn_egg"
+}

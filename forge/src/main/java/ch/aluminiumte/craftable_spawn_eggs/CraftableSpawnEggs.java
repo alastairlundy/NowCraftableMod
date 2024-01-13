@@ -21,6 +21,7 @@ import java.util.stream.Collectors;
 @Mod("craftable_spawn_eggs")
 public class CraftableSpawnEggs
 {
+    public static final String MOD_ID = "craftable_spawn_eggs";
     // Directly reference a log4j logger.
     private static final Logger LOGGER = LogManager.getLogger();
 
