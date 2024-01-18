@@ -1,4 +1,4 @@
-# CraftableSpawnEggs Mod (and maybe one day Spigot Plugin?) for Minecraft
+# A CraftableSpawnEggs Mod (and maybe one day Spigot Plugin?) for Minecraft
 
 | Mod Name | Description | Target Minecraft client Version | Target Forge MDK |
 |-|-|-|-|
