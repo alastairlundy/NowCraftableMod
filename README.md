@@ -1,6 +1,6 @@
-## CraftableSpawnEggs
- A Forge Minecraft Mod to make Spawn Eggs craftable (and maybe one day Spawners as well?)
+## NowCraftable Mod
+ A Forge Minecraft Mod to make Spawn Eggs and other recipes that used to be craftable, once again craftable (and maybe one day Spawners as well?)
 
-| Mod Name | Description | Target Minecraft client Version | Target Forge MDK |
-|-|-|-|-|
-| CraftableSpawnEggs | Adds crafting recipes for spawn eggs for all mobs in Vanilla Minecraft. | 1.18.1 | 39.1.2 |
+| Mod Name | Target Minecraft client Version | Target Forge MDK |
+|-|-|-|
+| NowCraftable | 1.18.1 | 39.1.2 |
